@@ -1,0 +1,6 @@
+{
+  "name": "Sugaria & Co.",
+  "description": "Premium luxury-inspired 3D landing page for Sugaria & Co. cookies, artisanal Cebu-based bakery delivering viral pistachio kunafa experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
